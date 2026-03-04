@@ -1,0 +1,38 @@
+
+# --------------------
+# OSX stuff
+# --------------------
+*.DS_Store
+
+
+# -------------------
+# KiCad
+# -------------------
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.lck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*.kicad_prl
+*.sch-bak
+*~
+*auto_save*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+*autosave*
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Gerber files from the export plugin
+*gerber*

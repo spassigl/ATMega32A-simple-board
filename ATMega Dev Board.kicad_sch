@@ -3882,393 +3882,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_JLCPCB-Transistors:NPN,S8050"
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q1"
-				(at -3.048 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "S8050"
-				(at -4.064 -3.556 0)
-				(effects
-					(font
-						(size 0.8 0.8)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
-				(at -1.778 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2407101108_MDD-Microdiode-Semiconductor-S8050-J3Y_C364312.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "25V 300mW 120@50mA,1V 500mA NPN SOT-23 Bipolar (BJT) ROHS"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C364312"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Stock" "567929"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Price" "0.013USD"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Process" "SMT"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Minimum Qty" "10"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Attrition Qty" "5"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Class" "Preferred Component"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Category" "Transistors,Bipolar Transistors - BJT"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "MDD（Microdiode Electronics）"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Part" "S8050"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Transition Frequency (fT)" "150MHz"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Operating Temperature" "-55°C~+150°C"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Collector Cut-Off Current (Icbo)" "100nA"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Transistor Type" "NPN"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "DC Current Gain (hFE@Ic,Vce)" "120@500mA,1V"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Power Dissipation (Pd)" "300mW"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Collector Current (Ic)" "500mA"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Collector-Emitter Saturation Voltage (VCE(sat)@Ic,Ib)" "600mV@500mA,50mA"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Collector-Emitter Breakdown Voltage (Vceo)" "25V"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Q_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "NPN,S8050_0_1"
-				(polyline
-					(pts
-						(xy -2.54 0) (xy 0.635 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.635 0.635) (xy 2.54 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.635 -0.635) (xy 2.54 -2.54) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 1.27 0)
-					(radius 2.8194)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778) (xy 1.27 -1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.794 -1.27) (xy 2.794 -1.27)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.794 -1.27) (xy 2.794 -1.27)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "NPN,S8050_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "E"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "PCM_JLCPCB-Transistors:PMOS,HL6042"
 			(pin_names
 				(offset 0)
@@ -5399,6 +5012,229 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Transistor_BJT:S8050"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "S8050"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.unisonic.com.tw/datasheet/S8050.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Device" "NPN"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=E 2=B 3=C"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "S8050 NPN Low Voltage High Current Transistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO?92*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "S8050_0_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy 0.635 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.27 0)
+					(radius 2.8194)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "S8050_1_1"
+				(polyline
+					(pts
+						(xy 0.635 0.635) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -0.635) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "E"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Transistor_FET:2N7002"
 			(pin_names
 				(offset 0)
@@ -6028,16 +5864,6 @@
 	)
 	(text "G"
 		(exclude_from_sim no)
-		(at 175.006 115.824 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "1d964647-7e78-40aa-8ac0-a13024c76f6c")
-	)
-	(text "G"
-		(exclude_from_sim no)
 		(at 161.036 115.062 0)
 		(effects
 			(font
@@ -6045,26 +5871,6 @@
 			)
 		)
 		(uuid "2dd80b0c-00b9-44c2-8251-4e2c6fd4103b")
-	)
-	(text "S"
-		(exclude_from_sim no)
-		(at 178.308 112.522 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "47d958d5-32a9-4c10-8e37-26b8a8fccf19")
-	)
-	(text "S"
-		(exclude_from_sim no)
-		(at 183.134 104.394 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "a0365135-8d56-4343-9736-04678553a9bf")
 	)
 	(text "S"
 		(exclude_from_sim no)
@@ -6078,16 +5884,6 @@
 	)
 	(text "D"
 		(exclude_from_sim no)
-		(at 169.672 112.268 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "c2406694-7371-4916-ab6c-7a6629a92336")
-	)
-	(text "D"
-		(exclude_from_sim no)
 		(at 163.83 120.904 0)
 		(effects
 			(font
@@ -6095,26 +5891,6 @@
 			)
 		)
 		(uuid "c3ea8f56-1355-4db9-8b8a-7f9b4af68e73")
-	)
-	(text "G"
-		(exclude_from_sim no)
-		(at 176.276 101.854 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "d061a96d-9be7-49fe-9e72-d58f0f423e97")
-	)
-	(text "D"
-		(exclude_from_sim no)
-		(at 183.134 96.774 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "e7dee9d7-a80e-470e-980b-c3a3b807728b")
 	)
 	(junction
 		(at 171.45 25.4)
@@ -6127,12 +5903,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a3337a8-4a89-4797-a7a9-8ed5146bf5b9")
-	)
-	(junction
-		(at 199.39 49.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1abefcc0-e249-4abe-93f2-8f53bcac0b0f")
 	)
 	(junction
 		(at 72.39 146.05)
@@ -6159,6 +5929,12 @@
 		(uuid "3685e4de-0210-45bd-a681-5158692ce4c9")
 	)
 	(junction
+		(at 199.39 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37ae7478-c848-43e1-9f52-02775be755fd")
+	)
+	(junction
 		(at 34.29 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6181,6 +5957,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6740a79f-0c46-4ffb-982e-c9b28b162d62")
+	)
+	(junction
+		(at 199.39 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6a1e7cdd-9d26-4e5e-b73c-bc60b41c6f0a")
 	)
 	(junction
 		(at 234.95 100.33)
@@ -6241,12 +6023,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be1ef2d8-06f8-4068-8cb9-acb20a830a01")
-	)
-	(junction
-		(at 199.39 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c3770238-566c-4135-a762-3438a7453525")
 	)
 	(junction
 		(at 45.72 55.88)
@@ -6496,6 +6272,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 49.53) (xy 184.15 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19772f1d-574a-49c5-940f-33fb07e92a6e")
+	)
+	(wire
+		(pts
 			(xy 85.09 36.83) (xy 92.71 36.83)
 		)
 		(stroke
@@ -6663,16 +6449,6 @@
 			(type default)
 		)
 		(uuid "312e10d5-7326-4a55-88f3-0f2cd9130fa3")
-	)
-	(wire
-		(pts
-			(xy 179.07 49.53) (xy 199.39 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37f09afd-55ca-4e9b-ae4a-46ba01731a25")
 	)
 	(wire
 		(pts
@@ -7126,6 +6902,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 49.53) (xy 199.39 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82b6a8d1-af18-450f-b41f-ece3c9a7db44")
+	)
+	(wire
+		(pts
 			(xy 153.67 100.33) (xy 156.21 100.33)
 		)
 		(stroke
@@ -7203,6 +6989,16 @@
 			(type default)
 		)
 		(uuid "8983e8ae-e545-4dee-b9f4-9ec8b2af664c")
+	)
+	(wire
+		(pts
+			(xy 194.31 54.61) (xy 199.39 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89da29a9-79ff-479f-883b-ff9b74ff28f4")
 	)
 	(wire
 		(pts
@@ -7676,16 +7472,6 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 52.07) (xy 199.39 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0a4c269-c4b3-44e5-ba14-8a526a5df46a")
-	)
-	(wire
-		(pts
 			(xy 50.8 101.6) (xy 54.61 101.6)
 		)
 		(stroke
@@ -7753,6 +7539,16 @@
 			(type default)
 		)
 		(uuid "d75dfacf-b390-4921-a0e3-6177f069589f")
+	)
+	(wire
+		(pts
+			(xy 153.67 119.38) (xy 154.94 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc3b2c73-5e2c-4a87-b761-385b84178c84")
 	)
 	(wire
 		(pts
@@ -8006,6 +7802,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 52.07) (xy 184.15 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff30da9c-e20b-4397-aae2-43f2c19836e2")
+	)
+	(wire
+		(pts
 			(xy 85.09 41.91) (xy 92.71 41.91)
 		)
 		(stroke
@@ -8155,7 +7961,7 @@
 		(uuid "1ddfa689-6d7c-43e0-969c-5cc5193f12fd")
 	)
 	(label "UD-"
-		(at 191.77 52.07 180)
+		(at 184.15 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8233,6 +8039,16 @@
 			(justify left bottom)
 		)
 		(uuid "30c0ef82-f3af-4360-a069-8acbeef30e5c")
+	)
+	(label "UD-"
+		(at 194.31 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3292c5e4-e1d0-4edf-806b-3c158db58e44")
 	)
 	(label "PA1"
 		(at 113.03 52.07 0)
@@ -8544,6 +8360,16 @@
 		)
 		(uuid "9bc78984-0133-4043-8f0e-265663e71ec2")
 	)
+	(label "UD+"
+		(at 194.31 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9ceb98c6-d06a-45c0-be26-2bbc6f64f23d")
+	)
 	(label "PB2"
 		(at 92.71 64.77 180)
 		(effects
@@ -8625,7 +8451,7 @@
 		(uuid "bfd436f9-194b-4852-a0ea-c9a018da6684")
 	)
 	(label "UD+"
-		(at 191.77 49.53 180)
+		(at 184.15 49.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9963,7 +9789,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 154.94 119.38 270)
+		(at 153.67 119.38 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9972,7 +9798,7 @@
 		(fields_autoplaced yes)
 		(uuid "3513d26c-f771-4184-814f-053862969d60")
 		(property "Reference" "#PWR0103"
-			(at 148.59 119.38 0)
+			(at 147.32 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9981,7 +9807,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 151.13 119.3799 90)
+			(at 149.86 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9990,7 +9816,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 119.38 0)
+			(at 153.67 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9999,7 +9825,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 119.38 0)
+			(at 153.67 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10008,7 +9834,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 119.38 0)
+			(at 153.67 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11628,7 +11454,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Transistors:NPN,S8050")
+		(lib_id "Transistor_BJT:S8050")
 		(at 69.85 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11654,25 +11480,28 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 68.072 161.29 90)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 74.93 163.195 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(italic yes)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.unisonic.com.tw/datasheet/S8050.pdf"
 			(at 69.85 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92"
 			(at 69.85 161.29 0)
 			(effects
 				(font
@@ -11682,6 +11511,24 @@
 			)
 		)
 		(property "LCSC" "C2146"
+			(at 69.85 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 69.85 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=E 2=B 3=C"
 			(at 69.85 161.29 0)
 			(effects
 				(font
@@ -13723,79 +13570,6 @@
 			(project "ATMega Dev Board"
 				(path "/70bbf962-aa97-42ae-8e7e-b12a946a1ea0"
 					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 184.15 181.61 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "be36f230-bb0d-499b-a7e6-48597dd9a48d")
-		(property "Reference" "#PWR0101"
-			(at 180.34 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 184.15 168.148 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 184.15 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 184.15 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 184.15 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dee02d3c-d818-451b-b62e-7d06b4bcc8e1")
-		)
-		(instances
-			(project "Power ORing"
-				(path "/6360eb7f-9406-4238-abc5-4989009a1856"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/70bbf962-aa97-42ae-8e7e-b12a946a1ea0"
-					(reference "#PWR0101")
 					(unit 1)
 				)
 			)

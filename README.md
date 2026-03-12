@@ -1,5 +1,5 @@
-# ATMega32A simple board
-An ATMega32A breakout board with exposed GPIO pins, LEDs, tactile switches and a buzzer
+# ATMega32A demo board
+An ATMega32A demo board with exposed GPIO pins, LEDs, tactile switches and a buzzer
 
 ## The project
 This is a simple ATMega32A board that I used to test some ideas for a bigger project. 

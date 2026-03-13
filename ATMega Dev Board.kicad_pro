@@ -508,13 +508,13 @@
         "wire_width": 6
       },
       {
-        "diff_pair_gap": 0.2032,
-        "diff_pair_width": 0.286,
+        "diff_pair_gap": 0.127,
+        "diff_pair_width": 0.2065,
         "name": "USB_90",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.286
+        "track_width": 0.2065
       },
       {
         "name": "VCC",
